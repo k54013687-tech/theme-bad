@@ -1,14 +1,15 @@
 # theme-bad
-# ENCRYPT TOOLS
 
 ### THEME BAD
 <div align="center">
   <img src="https://h.top4top.io/p_3691c6nq10.png" alt="Index" width="200" height="400"> 
 </div>
 
-🔥 THEME BAD — Dokumentasi Resmi
-<div
-  <img src="https://k.top4top.io/p_36916et1f0.jpg"</div>
+#🔥 THEME BAD — Dokumentasi Resmi
+
+<div align="center">
+  <img src="https://k.top4top.io/p_36916et1f0.jpg" alt="Index" width="200" height="400"> 
+</div>
 
 > THEME BAD adalah tools tema terminal/CLI yang dibuat untuk kamu yang suka tampilan gelap, agresif, simpel, dan garang. Fokus utama: tampil bad, ringan, dan enak dipakai.
 
