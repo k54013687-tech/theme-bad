@@ -89,7 +89,7 @@ git clone https://github.com/k54013687-tech/theme-bad
 cd theme-bad
 ```
 ```
-python obffc.py
+python obfusc.py
 ```
 ### ©️ Copyright
 Copyright © 2025 by [Juned](https://github.com/k54013687-tech)
