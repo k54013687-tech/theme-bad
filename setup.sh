@@ -5,4 +5,4 @@ pip install requests
 
 #babi
 pip install sys
-python obfusc.py
+python obff.py
